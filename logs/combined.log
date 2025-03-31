@@ -1,0 +1,46 @@
+{"level":"error","message":"Error creating todo: User is required","stack":"Error: User is required\n    at model.<anonymous> (D:\\Frontend\\DailyRounds-Assignment\\DailyRounds\\src\\models\\Todo.js:112:10)\n    at callMiddlewareFunction (D:\\Frontend\\DailyRounds-Assignment\\DailyRounds\\node_modules\\kareem\\index.js:628:27)\n    at next (D:\\Frontend\\DailyRounds-Assignment\\DailyRounds\\node_modules\\kareem\\index.js:226:9)\n    at Kareem.execPost (D:\\Frontend\\DailyRounds-Assignment\\DailyRounds\\node_modules\\kareem\\index.js:296:3)\n    at _handleWrapError (D:\\Frontend\\DailyRounds-Assignment\\DailyRounds\\node_modules\\kareem\\index.js:341:21)\n    at D:\\Frontend\\DailyRounds-Assignment\\DailyRounds\\node_modules\\kareem\\index.js:375:14\n    at _next (D:\\Frontend\\DailyRounds-Assignment\\DailyRounds\\node_modules\\kareem\\index.js:133:16)\n    at D:\\Frontend\\DailyRounds-Assignment\\DailyRounds\\node_modules\\kareem\\index.js:653:30\n    at process.processTicksAndRejections (node:internal/process/task_queues:77:11)","timestamp":"2025-03-29T05:59:39.900Z"}
+{"level":"info","message":"Server is running on port 5000","timestamp":"2025-03-29T07:03:53.401Z"}
+{"level":"info","message":"API Documentation available at http://localhost:5000/api-docs","timestamp":"2025-03-29T07:03:53.407Z"}
+{"level":"info","message":"Server is running on port 5000","timestamp":"2025-03-29T07:25:14.374Z"}
+{"level":"info","message":"API Documentation available at http://localhost:5000/api-docs","timestamp":"2025-03-29T07:25:14.380Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-03-29T07:34:03.728Z"}
+{"level":"info","message":"Cleared existing data","timestamp":"2025-03-29T07:34:03.955Z"}
+{"level":"info","message":"Created 5 users","timestamp":"2025-03-29T07:34:03.985Z"}
+{"level":"info","message":"Server is running on port 5000","timestamp":"2025-03-29T08:18:02.625Z"}
+{"level":"info","message":"API Documentation available at http://localhost:5000/api-docs","timestamp":"2025-03-29T08:18:02.630Z"}
+{"level":"info","message":"Server is running on port 5000","timestamp":"2025-03-29T10:28:33.338Z"}
+{"level":"info","message":"API Documentation available at http://localhost:5000/api-docs","timestamp":"2025-03-29T10:28:33.342Z"}
+{"level":"info","message":"Server is running on port 5000","timestamp":"2025-03-29T10:29:02.807Z"}
+{"level":"info","message":"API Documentation available at http://localhost:5000/api-docs","timestamp":"2025-03-29T10:29:02.811Z"}
+{"level":"info","message":"Server is running on port 5000","timestamp":"2025-03-29T11:04:17.963Z"}
+{"level":"info","message":"API Documentation available at http://localhost:5000/api-docs","timestamp":"2025-03-29T11:04:17.967Z"}
+{"level":"info","message":"Server is running on port 5000","timestamp":"2025-03-29T11:11:17.260Z"}
+{"level":"info","message":"API Documentation available at http://localhost:5000/api-docs","timestamp":"2025-03-29T11:11:17.264Z"}
+{"level":"info","message":"Server is running on port 5000","timestamp":"2025-03-29T11:44:15.354Z"}
+{"level":"info","message":"API Documentation available at http://localhost:5000/api-docs","timestamp":"2025-03-29T11:44:15.359Z"}
+{"level":"info","message":"Server is running on port 5000","timestamp":"2025-03-29T15:43:32.615Z"}
+{"level":"info","message":"API Documentation available at http://localhost:5000/api-docs","timestamp":"2025-03-29T15:43:32.619Z"}
+{"level":"info","message":"Server is running on port 5000","timestamp":"2025-03-29T16:43:12.768Z"}
+{"level":"info","message":"API Documentation available at http://localhost:5000/api-docs","timestamp":"2025-03-29T16:43:12.772Z"}
+{"level":"info","message":"Server is running on port 5000","timestamp":"2025-03-29T17:12:43.586Z"}
+{"level":"info","message":"API Documentation available at http://localhost:5000/api-docs","timestamp":"2025-03-29T17:12:43.591Z"}
+{"level":"info","message":"Server is running on port 5000","timestamp":"2025-03-29T17:14:46.813Z"}
+{"level":"info","message":"API Documentation available at http://localhost:5000/api-docs","timestamp":"2025-03-29T17:14:46.818Z"}
+{"level":"info","message":"Server is running on port 5000","timestamp":"2025-03-29T17:21:51.798Z"}
+{"level":"info","message":"API Documentation available at http://localhost:5000/api-docs","timestamp":"2025-03-29T17:21:51.804Z"}
+{"level":"info","message":"Server is running on port 5000","timestamp":"2025-03-29T17:25:03.517Z"}
+{"level":"info","message":"API Documentation available at http://localhost:5000/api-docs","timestamp":"2025-03-29T17:25:03.523Z"}
+{"level":"info","message":"Server is running on port 5000","timestamp":"2025-03-29T17:32:24.348Z"}
+{"level":"info","message":"API Documentation available at http://localhost:5000/api-docs","timestamp":"2025-03-29T17:32:24.353Z"}
+{"level":"info","message":"Server is running on port 5000","timestamp":"2025-03-29T17:33:59.765Z"}
+{"level":"info","message":"API Documentation available at http://localhost:5000/api-docs","timestamp":"2025-03-29T17:33:59.770Z"}
+{"level":"info","message":"Server is running on port 5000","timestamp":"2025-03-30T02:50:05.651Z"}
+{"level":"info","message":"API Documentation available at http://localhost:5000/api-docs","timestamp":"2025-03-30T02:50:05.656Z"}
+{"level":"info","message":"Server is running on port 5000","timestamp":"2025-03-30T08:04:52.704Z"}
+{"level":"info","message":"API Documentation available at http://localhost:5000/api-docs","timestamp":"2025-03-30T08:04:52.707Z"}
+{"level":"info","message":"Server is running on port 5000","timestamp":"2025-03-30T12:50:33.274Z"}
+{"level":"info","message":"API Documentation available at http://localhost:5000/api-docs","timestamp":"2025-03-30T12:50:33.278Z"}
+{"level":"info","message":"Server is running on port 5000","timestamp":"2025-03-30T12:57:57.896Z"}
+{"level":"info","message":"API Documentation available at http://localhost:5000/api-docs","timestamp":"2025-03-30T12:57:57.900Z"}
+{"level":"info","message":"Server is running on port 5000","timestamp":"2025-03-31T04:50:46.893Z"}
+{"level":"info","message":"API Documentation available at http://localhost:5000/api-docs","timestamp":"2025-03-31T04:50:46.897Z"}
