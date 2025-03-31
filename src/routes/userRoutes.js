@@ -29,21 +29,6 @@ const userController = require('../controllers/userController');
  */
 router.get('/', userController.getAllUsers);
 
-/**
- * @swagger
- * /api/users/me:
- *   get:
- *     summary: Get current user
- *     tags: [Users]
- *     responses:
- *       200:
- *         description: Current user details
- *       404:
- *         description: No user found
- *       500:
- *         description: Server error
- */
-router.get('/me', userController.getCurrentUser);
 
 /**
  * @swagger

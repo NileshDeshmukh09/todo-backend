@@ -26,35 +26,6 @@ const getUserById = async (req, res) => {
   }
 };
 
-// Get current user
-const getCurrentUser = async (req, res) => {
-  try {
-    // For now, we'll return the first user as the current user
-    const user = await User.findOne();
-    if (!user) {
-      // If no user exists, create a default user
-      const defaultUser = new User({
-        username: 'testuser',
-        email: 'test@example.com'
-      });
-      await defaultUser.save();
-      return res.json({
-        _id: defaultUser._id,
-        username: defaultUser.username,
-        email: defaultUser.email
-      });
-    }
-    res.json({
-      _id: user?._id,
-      username: user?.username,
-      email: user?.email
-    });
-  } catch (error) {
-    console.error('Error getting current user:', error);
-    res.status(500).json({ message: 'Error getting current user' });
-  }
-};
-
 // Create a new user
 const createUser = async (req, res) => {
   try {
@@ -89,6 +60,5 @@ const createUser = async (req, res) => {
 module.exports = {
   getAllUsers,
   getUserById,
-  getCurrentUser,
   createUser
 }; 
