@@ -1,6 +1,9 @@
 # Todo List Application
 
+Swagger Docs : [https](http://localhost:5000/api-docs)
 A feature-rich Todo List application built with Node.js, Express, and MongoDB. This application allows users to manage their todos with features like tagging, priority levels, user assignments, and notes.
+
+- SeedData  : `npm run seed`
 
 ## Features
 
